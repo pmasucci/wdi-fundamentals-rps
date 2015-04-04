@@ -88,6 +88,6 @@ function playToFive() {
         console.log('Player chose ' + playerMove + ' while Computer chose ' + computerMove);
         console.log('The score is currently ' + playerWins + ' to ' + computerWins + '\n');
     }
-    return [playerWins, computerWins];
+    return [playerWins, computerWins]; 
 }
 
